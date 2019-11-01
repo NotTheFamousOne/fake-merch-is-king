@@ -1,0 +1,105 @@
+.row {
+margin-bottom:30px;
+
+}
+
+navtext {
+font-family: 'Ariel',
+font-size:.9em;
+}
+
+.h1{
+font-size:8em;
+font-weight:heavy;
+color: #ef4545;
+}
+
+h2{
+font-size:4em;
+font-weight:heavy;
+}
+
+body {
+font-family: 'Ariel', sans-serif;
+font-size:1em;
+line-height:1.5em;
+background-color: #fff;
+font-color: #000;
+
+}
+
+.breadcrumb {
+
+font-size:.85em;
+}
+
+
+.title{
+color:#ef4545;
+}
+
+
+
+.bloghead
+{font-size:1.5em;
+}
+
+
+.footerblock{
+font-size:.75em;
+color:#555;
+
+}
+
+
+.backgroundblock{
+background-color: #48BEEC;
+padding:30px;
+}
+
+.crumbs {
+
+padding-bottom: 40px;
+
+}
+
+/***** Links ******/
+
+a {
+text-decoration: none;
+color:#000
+}
+
+a:hover {
+text-decoration: underline;
+
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+.navbar-brand
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+}
+.navbar-toggle {
+    z-index:3;
+}
